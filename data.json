@@ -1,0 +1,20 @@
+{
+    "collected_at": 34603008,
+    "cycle_0": 34734080,
+    "cycle_now": 34668544,
+    "weather": 0,
+    "weather_until": 0,
+    "high_temp_days": 0,
+    "day_temp": 22.84,
+    "cycle_hum": 0.3,
+    "cycle_temp": 19.56,
+    "temp_multi": 0.97,
+    "fluctuation": -0.37,
+    "last_preci": 0,
+    "preci_chance": 0.1,
+    "preci_level": 0,
+    "precipitation": 0,
+    "wind_scale": 3,
+    "wind_speed": 4.9,
+    "wind_direction": 7
+}

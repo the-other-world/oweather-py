@@ -1,0 +1,15 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Abjust", email = "2533898108@qq.com"},
+]
+dependencies = [
+    "owtime @ git+https://github.com/the-other-world/owtime-py.git",
+    "pytz>=2024.1"
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "WTFPL"}
+
